@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknowledge_base=self.webpackChunkknowledge_base||[]).push([[9537],{1313:e=>{e.exports=JSON.parse('{"title":"Middlit","slug":"/category/middlit","permalink":"/knowledge-base/docs/category/middlit","navigation":{"next":{"title":"Getting started","permalink":"/knowledge-base/docs/middlit/middlit-getting-started"}}}')}}]);
