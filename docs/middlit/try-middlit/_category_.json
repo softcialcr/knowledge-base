@@ -1,6 +1,6 @@
 {
-  "label": "Tutorial - Extras",
-  "position": 10,
+  "label": "Try it",
+  "position": 3,
   "link": {
     "type": "generated-index"
   }
